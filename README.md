@@ -4,8 +4,9 @@ A Flat Blackhole is a Color Hole clone written in C# using Unity. Color Hole is 
 Basic functionality is implemented.
 
  * Core gameplay (move hole, eat, physics)
- * Multiple Levels (extendable to any amount of sublevel, not only 2)
- * Evil Objects (when eaten, ends the game)
+ * Multiple Levels (extendable to any amounts of sublevel, not only 2)
+ * Randomly generated or xml-based colors for levels
+ * Evil Objects (colored, when eaten, ends the game)
 
 ## How to build
 
