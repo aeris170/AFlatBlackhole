@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!--http://mcg.mbitson.com/#!?red=%23cc0000&orange=%23e69138&yellow=%23f1c232&green=%236aa84f&cyan=%2345818e&blue=%233d85c6&purple=%23674ea7&pink=%23a64d79&themename=mcgtheme-->
+<colors>
+    <palette name="red">
+			<color name="red_50">#f9e0e0</color>
+			<color name="red_100">#f0b3b3</color>
+			<color name="red_200">#e68080</color>
+			<color name="red_300">#db4d4d</color>
+			<color name="red_400">#d42626</color>
+			<color name="red_500">#cc0000</color>
+			<color name="red_600">#c70000</color>
+			<color name="red_700">#c00000</color>
+			<color name="red_800">#b90000</color>
+			<color name="red_900">#ad0000</color>
+			<color name="red_A100">#ffd7d7</color>
+			<color name="red_A200">#ffa4a4</color>
+			<color name="red_A400">#ff7171</color>
+    </palette>
+    <palette name="orange">
+			<color name="orange_50">#fcf2e7</color>
+			<color name="orange_100">#f8dec3</color>
+			<color name="orange_200">#f3c89c</color>
+			<color name="orange_300">#eeb274</color>
+			<color name="orange_400">#eaa256</color>
+			<color name="orange_500">#e69138</color>
+			<color name="orange_600">#e38932</color>
+			<color name="orange_700">#df7e2b</color>
+			<color name="orange_800">#db7424</color>
+			<color name="orange_900">#d56217</color>
+			<color name="orange_A100">#ffe3d4</color>
+			<color name="orange_A200">#ffc3a1</color>
+			<color name="orange_A400">#ffb287</color>
+    </palette>
+    <palette name="yellow">
+			<color name="yellow_50">#fdf8e6</color>
+			<color name="yellow_100">#fbedc2</color>
+			<color name="yellow_200">#f8e199</color>
+			<color name="yellow_300">#f5d470</color>
+			<color name="yellow_400">#f3cb51</color>
+			<color name="yellow_500">#f1c232</color>
+			<color name="yellow_600">#efbc2d</color>
+			<color name="yellow_700">#edb426</color>
+			<color name="yellow_800">#ebac1f</color>
+			<color name="yellow_900">#e79f13</color>
+			<color name="yellow_A100">#fff4e2</color>
+			<color name="yellow_A200">#ffe2af</color>
+			<color name="yellow_A400">#ffd896</color>
+    </palette>
+		<palette name="green">
+			<color name="green_50">#edf5ea</color>
+			<color name="green_100">#d2e5ca</color>
+			<color name="green_200">#b5d4a7</color>
+			<color name="green_300">#97c284</color>
+			<color name="green_400">#80b569</color>
+			<color name="green_500">#6aa84f</color>
+			<color name="green_600">#62a048</color>
+			<color name="green_700">#57973f</color>
+			<color name="green_800">#4d8d36</color>
+			<color name="green_900">#3c7d26</color>
+			<color name="green_A100">#cdffbe</color>
+			<color name="green_A200">#a6ff8b</color>
+			<color name="green_A400">#7fff58</color>
+		</palette>
+		<palette name="cyan">
+			<color name="cyan_50">#e9f0f1</color>
+			<color name="cyan_100">#c7d9dd</color>
+			<color name="cyan_200">#a2c0c7</color>
+			<color name="cyan_300">#7da7b0</color>
+			<color name="cyan_400">#61949f</color>
+			<color name="cyan_500">#45818e</color>
+			<color name="cyan_600">#3e7986</color>
+			<color name="cyan_700">#366e7b</color>
+			<color name="cyan_800">#2e6471</color>
+			<color name="cyan_900">#1f515f</color>
+			<color name="cyan_A100">#9fe9ff</color>
+			<color name="cyan_A200">#6cddff</color>
+			<color name="cyan_A400">#39d2ff</color>
+		</palette>
+		<palette name="blue">
+			<color name="blue_50">#e8f0f8</color>
+			<color name="blue_100">#c5daee</color>
+			<color name="blue_200">#9ec2e3</color>
+			<color name="blue_300">#77aad7</color>
+			<color name="blue_400">#5a97cf</color>
+			<color name="blue_500">#3d85c6</color>
+			<color name="blue_600">#377dc0</color>
+			<color name="blue_700">#2f72b9</color>
+			<color name="blue_800">#2768b1</color>
+			<color name="blue_900">#1a55a4</color>
+			<color name="blue_A100">#dae9ff</color>
+			<color name="blue_A200">#a7caff</color>
+			<color name="blue_A400">#74abff</color>
+		</palette>
+		<palette name="purple">
+			<color name="purple_50">#edeaf4</color>
+			<color name="purple_100">#d1cae5</color>
+			<color name="purple_200">#b3a7d3</color>
+			<color name="purple_300">#9583c1</color>
+			<color name="purple_400">#7e69b4</color>
+			<color name="purple_500">#674ea7</color>
+			<color name="purple_600">#5f479f</color>
+			<color name="purple_700">#543d96</color>
+			<color name="purple_800">#4a358c</color>
+			<color name="purple_900">#39257c</color>
+			<color name="purple_A100">#cbbdff</color>
+			<color name="purple_A200">#a28aff</color>
+			<color name="purple_A400">#7a57ff</color>
+		</palette>
+		<palette name="pink">
+			<color name="pink_50">#f4eaef</color>
+			<color name="pink_100">#e4cad7</color>
+			<color name="pink_200">#d3a6bc</color>
+			<color name="pink_300">#c182a1</color>
+			<color name="pink_400">#b3688d</color>
+			<color name="pink_500">#a64d79</color>
+			<color name="pink_600">#9e4671</color>
+			<color name="pink_700">#953d66</color>
+			<color name="pink_800">#8b345c</color>
+			<color name="pink_900">#7b2549</color>
+			<color name="pink_A100">#ffbcd7</color>
+			<color name="pink_A200">#ff89b8</color>
+			<color name="pink_A400">#ff5699</color>
+		</palette>
+</colors>
