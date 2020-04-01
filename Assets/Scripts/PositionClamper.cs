@@ -11,7 +11,7 @@ public class PositionClamper : MonoBehaviour
         zClamp = new Vector2();
     }
 
-    void Update()
+    private void Update()
     {
         var pos = transform.position;
         pos.x = Mathf.Clamp(transform.position.x, xClamp.x, xClamp.y);

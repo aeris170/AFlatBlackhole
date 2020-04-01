@@ -2,7 +2,7 @@
 
 public class LightColorController : MonoBehaviour
 {
-    void Start()
+    private void Start()
     {
         Light l = GetComponent<Light>();
         Color old = l.color;

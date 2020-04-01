@@ -4,12 +4,12 @@ public class CameraRotator : MonoBehaviour
 {
     public float Tilt;
 
-    void Awake()
+    private void Awake()
     {
         RotateAroundOriginBy(Tilt);
     }
 
-    public void OnValidate()
+    private void OnValidate()
     {
         RotateAroundOriginBy(Tilt);
     }

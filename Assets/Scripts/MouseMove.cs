@@ -5,7 +5,7 @@ public class MouseMove : MonoBehaviour
     private Vector3 mOffset;
     private float mZCoord;
 
-    void OnMouseDown()
+    private void OnMouseDown()
     {
         mZCoord = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;
         mOffset = gameObject.transform.position - GetMouseAsWorldPoint();
@@ -18,7 +18,7 @@ public class MouseMove : MonoBehaviour
         return Camera.main.ScreenToWorldPoint(mousePoint);
     }
 
-    void OnMouseDrag()
+    private void OnMouseDrag()
     {
         float y = transform.position.y;
         transform.position = GetMouseAsWorldPoint() + mOffset;

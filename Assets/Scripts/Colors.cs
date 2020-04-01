@@ -12,7 +12,7 @@ public class Colors : MonoBehaviour
 
     public Color[] ColorsFromXML;
 
-    void Awake()
+    private void Awake()
     {
         if (ReadFromXML)
         {

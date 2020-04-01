@@ -44,7 +44,7 @@ public class Level : MonoBehaviour
         nextLevelInText = GameObject.Find("NextLevelInText").GetComponent<Text>();
     }
 
-    void Update()
+    private void Update()
     {
         if (IsGameOver) return;
         if (IsSubLevelOver(CurrentSubLevel))

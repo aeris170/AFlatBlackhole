@@ -4,7 +4,7 @@ public class TouchMove : MonoBehaviour
 {
     private const float COEFF = 0.006f;
 
-    void Update()
+    private void Update()
     {
         if (Input.touchCount > 0)
         {
